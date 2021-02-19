@@ -2,7 +2,7 @@
 layout: post
 title : "FlatBuffer를 이용한 데이터 버퍼 생성"
 date:   2021-02-19
-excerpt: "FlatBuffer 개념과 실제 사용법 정리"
+excerpt: "FlatBuffer 기본 개념과 실제 사용법 정리"
 tags: [flatbuffer]
 comments: true
 ---
