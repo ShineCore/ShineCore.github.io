@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlatBuffer를 이용한 데이터 버퍼 생성"
+date:   2021-02-19
 tags: [flatbuffer]
 comments: true
 ---
