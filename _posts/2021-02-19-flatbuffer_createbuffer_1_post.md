@@ -1,3 +1,10 @@
+---
+layout: post
+title: "FlatBuffer - Create Buffer"
+tags: [flatbuffer]
+comments: true
+---
+
 # FlatBuffer를 이용한 데이터 버퍼 생성
 
 ## 개념
