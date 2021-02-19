@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FlatBuffer - Create Buffer"
+title: "FlatBuffer를 이용한 데이터 버퍼 생성"
 tags: [flatbuffer]
 comments: true
 ---
